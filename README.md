@@ -34,3 +34,13 @@ Add: `IP adminer.k8s.com` ==> /etc/hosts
 Ex: 192.168.59.142 adminer.k8s.com
 
 Then browse: http://adminer.k8s.com
+
+How To Connect:
+
+```
+Systeme: PostgresSQL
+Server: postgres
+User: appuser
+Password: strongpasswordapp
+DB: appdb
+```
